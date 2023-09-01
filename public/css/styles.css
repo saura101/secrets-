@@ -1,0 +1,26 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.err {
+  color :red;
+  background-color: rgb(255, 223, 223);
+  font-size: 2rem;
+  min-height: 50px;
+  margin-right: 22px;
+  padding-left: 30px;
+  border-radius: 8px;
+}
